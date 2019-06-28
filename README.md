@@ -1,0 +1,2 @@
+# farida-spoj
+dynamic programming
